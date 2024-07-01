@@ -17,3 +17,20 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) operation 
 - **JavaScript**: For client-side scripting.
 - **Bootstrap**: For responsive design and UI components.
 - **PHP**: For server-side scripting and database interaction.
+
+## Usage
+
+1. **Add New Record:**
+   - Fill in the form on the main page and click the "Add" button to create a new record.
+
+2. **View Records:**
+   - The list of records is displayed on the main page.
+
+3. **Edit Record:**
+   - Click the "Edit" button next to the record you want to modify. Make changes in the form and save.
+
+4. **Delete Record:**
+   - Click the "Delete" button next to the record you want to remove.
+
+5. **Download Excel:**
+   - Click the "Download Excel" button to export the list of records to an Excel sheet.
