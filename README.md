@@ -39,7 +39,7 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) operation 
   ## Screenshots
   - **Display Users**
   ![Screenshot (218)](https://github.com/1149Aditya/CURD-operation/assets/125187947/26a99717-094e-4146-83e1-f1a78828020f)
-- **Add User**
+  - **Add User**
    ![Screenshot (217)](https://github.com/1149Aditya/CURD-operation/assets/125187947/f855df8b-0fc3-4630-b673-f6a449acf1d8)
   - **Update Users**
   ![Screenshot (219)](https://github.com/1149Aditya/CURD-operation/assets/125187947/3e9a0a78-60ac-4358-b463-29f0a9093275)
